@@ -1,0 +1,23 @@
+{
+    "name": "glaubinix/null-http-client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephan Vock",
+            "email": "stephan.vock@gmail.com"
+        }
+    ],
+    "provide": {
+        "php-http/client-implementation": "*"
+    },
+    "require": {
+    },
+    "require-dev": {
+    },
+    "conflict": {
+    },
+    "autoload": {
+    },
+    "minimum-stability": "dev"
+}
